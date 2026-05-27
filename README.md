@@ -710,6 +710,8 @@ This discipline is foundational for unlocking the full potential of LLMs in prod
     <a href="https://github.com/lucidrains/flamingo-pytorch" target="_blank">
   		<img src="https://img.shields.io/github/stars/lucidrains/flamingo-pytorch.svg?style=social" alt="GitHub stars">
     </a></li>
+<li><i><b>LensVLM: Selective Context Expansion for Compressed Visual Representation of Text</b></i>, Xie et al., <a href="https://arxiv.org/abs/2605.07019" target="_blank"><img src="https://img.shields.io/badge/arXiv-2026.05-red" alt="arXiv Badge"></a>
+    </li>
 </ul>
 
 
