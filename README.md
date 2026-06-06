@@ -972,6 +972,7 @@ In 2026, many of the most important advances in context engineering no longer li
 <li><i><b>LangChain Deep Agents Overview</b></i>, LangChain, <a href="https://docs.langchain.com/oss/python/deepagents/overview" target="_blank"><img src="https://img.shields.io/badge/LangChain-2026-blue" alt="LangChain Badge"></a></li>
 <li><i><b>Microsoft Agent Framework Overview</b></i>, Microsoft, <a href="https://learn.microsoft.com/en-us/agent-framework/user-guide/overview" target="_blank"><img src="https://img.shields.io/badge/Microsoft-2026-blue" alt="Microsoft Badge"></a></li>
 <li><i><b>Bring Your AI</b></i> — Local-first Claude Code to Codex harness mover for rules, skills, MCP config, and validation notes. <a href="https://bringyour.ai/claude-code-to-codex" target="_blank"><img src="https://img.shields.io/badge/Tool-2026-blue" alt="Tool Badge"></a></li>
+<li><i><b>TWZRD Agent Intel</b></i> — MCP server providing on-chain trust scoring and signed V5 receipts for AI agents on Solana. Pre-dispatch trust gating, agent reputation scoring, and x402 micropayment receipts. Zero-install: <code>{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}</code>. <a href="https://intel.twzrd.xyz" target="_blank"><img src="https://img.shields.io/badge/Tool-2026-blue" alt="Tool Badge"></a></li>
 </ul>
 
 <b>Core Runtime Concerns</b>
